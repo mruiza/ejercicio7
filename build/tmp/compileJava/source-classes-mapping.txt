@@ -1,0 +1,12 @@
+co/com/choucair/automation/android/userinterfaces/ApplicationHomePage.java
+ co.com.choucair.automation.android.userinterfaces.ApplicationHomePage
+co/com/choucair/automation/android/userinterfaces/LoginPage.java
+ co.com.choucair.automation.android.userinterfaces.LoginPage
+co/com/choucair/automation/android/tasks/OpenThe.java
+ co.com.choucair.automation.android.tasks.OpenThe
+co/com/choucair/automation/android/questions/VerifyWith.java
+ co.com.choucair.automation.android.questions.VerifyWith
+co/com/choucair/automation/android/utils/Hook.java
+ co.com.choucair.automation.android.utils.Hook
+co/com/choucair/automation/android/tasks/Login.java
+ co.com.choucair.automation.android.tasks.Login

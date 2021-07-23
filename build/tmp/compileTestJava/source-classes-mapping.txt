@@ -1,0 +1,4 @@
+co/com/choucair/automation/android/stepdefinitions/AuthenticationStepDefinitions.java
+ co.com.choucair.automation.android.stepdefinitions.AuthenticationStepDefinitions
+co/com/choucair/automation/android/runners/RunnerTags.java
+ co.com.choucair.automation.android.runners.RunnerTags
